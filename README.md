@@ -8,4 +8,4 @@ We equally use bootstrap for styling.
 
 # Screen Shots
 
-!(https://github.com/perry19/Covid-19_Spring-Boot/blob/master/Screen%20Shot%202021-01-11%20at%2010.22.10.png)
+!(https://github.com/perry19/Covid-19_Spring-Boot/blob/master/Screen Shot 202021-01-11 at 2010.22.10.png)
